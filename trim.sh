@@ -23,7 +23,7 @@
 ### 2. Plug everything in (ssd, adapter, pi)
 ### 3. Boot Raspberry Pi OS
 ### 4. Open terminal and execute `chmod +x trim.sh`
-### 5. Now run `sudo trim.sh`
+### 5. Now run `sudo ./trim.sh`
 ###
 ### Troubleshooting tips
 ### This isn't super well tested, so if it doesn't work for you, I recommend two things:
